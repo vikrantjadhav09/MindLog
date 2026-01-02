@@ -1,0 +1,8 @@
+{
+  "appName": "MindLog",
+  "tagline": "Write. Reflect. Grow.",
+  "description": "A private, calm, and personal diary for long-term growth and mental clarity. Track daily, weekly, monthly, and yearly reflections with zero pressure.",
+  "theme": "calm",
+  "privacy": "offline-first",
+  "version": "1.0.0"
+}
